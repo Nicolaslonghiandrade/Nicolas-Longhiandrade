@@ -1,2 +1,3 @@
 # Nicolas-Longhiandrade
-Aluno do 1A do colégio estadual cívico militar presidente vargas
+Aluno do 1A do Colégio Estadual Cívico Militar Presidente Vargas
+
